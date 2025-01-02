@@ -8,7 +8,7 @@
   
      LinkedIn: https://www.linkedin.com/in/rituparna-biswas-30362a2b8/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: talks less, imagines more!!
+- ⚡ Fun fact: talks less, creates more!!
 
 <!---
 rituparna25/rituparna25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
