@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rituparna Biswas
-- 👀 I’m interested in full stack web developement
+- 👀 I’m interested in full stack web developement , data analytics , programming.
 - 🌱 I’m currently learning web developement, data structures , python etc.
 - 💞️ I’m looking to collaborate on projects related to web developement.
 - 📫 Find me at
