@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm passionate about crafting creative and efficie
 
 ### 👩‍💻 About Me
 
-- **👀 Interests:** Full Stack Web Development, Data Analytics, Programming.
-- **🌱 Currently Learning:** Web Development, Data Structures, Python.
+- **👀 Interests:** Full Stack Web Development, Data Analytics, Data Science, Machine Learning, Programming.
+- **🌱 Currently Learning:** Web Development, Data Structures, Python, Machine Learning
 - **💕 Looking to Collaborate:** Projects related to Web Development, Data Science and Data Analytics.
 - **😄 Pronouns:** She/Her.
 - **⚡ Fun Fact:** Talks less, creates more!
